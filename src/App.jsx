@@ -5,7 +5,7 @@ import {
   Eye, Trash2, Edit3, Sparkles, Languages, LibraryBig
 } from "lucide-react";
 
-const ADMIN_EMAILS = ["your-email@example.com"];
+const ADMIN_EMAILS = ["kmmehta0501@gmail.com"];
 
 const categories = [
   "All", "Rajyoga", "Meditation", "Soul Consciousness", "Karma",
